@@ -1,6 +1,3 @@
-# hello-world
-Hello World ! This is my first repository to get start with GitHub.
-
 Hi Humans !
 
 Overall, I am a Futuristic Maker crazy about Technology who dreams of great things and works hard to achieve them.
